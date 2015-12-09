@@ -59,9 +59,11 @@ public class LeerPdfPipucho {
                     if(!file.toLowerCase().endsWith(".pdf"))
                         continue;
                     //carga el archivo                  
-                    PDDocument pdf = PDDocument.load(new File(directory + slash  +file)); 
+                    PDDocument pdf = PDDocument.load(new File
+                    (directory + slash  +file)); 
                     //extramos su contenido
-                    String content = new PDFTextStripper().getText(pdf);
+                    String content = new PDFTextStripper()
+                                      .getText(pdf);
                     //cerramos el archivo
                     pdf.close();
                     //preguntamos si existe lo que se quiere buscar

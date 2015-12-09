@@ -1,0 +1,24 @@
+/home/coby/pdfpipucho/Manual de Java Basico.pdfjava.awt.Rectangle[x=0,y=0,width=792,height=1024]Índice Tutor Básico
+Nota:
+Este tutor está basado en una traducción-adaptación del
+tutorial de Sun que puedes encontrar: aquí
+Tu Primera 'Taza' de Java
+La Primera 'Taza' de Java
+En Windowsm   
+En UNIXm   
+En Mac OSm   
+l   
+¿Por donde Empezar?
+¿Por dónde Empezar?l   
+El compilador Javacl   
+El visualizador de Appletsl   
+El intérprete Javal   
+El decompilador Javapl   
+Conceptos Básicos
+Conceptos Básicos de Programación Orientada a Objetosl   
+Características del Lenguaje
+Variables y Tipos de Datosl   
+Operadoresl   
+Expresionesl   
+Control de Flujol   
+Arrays y Cadenasl   
